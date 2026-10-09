@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Training outputs
+results/
+*.pth
+*.log
+
+# Data (deposit separately, e.g., Zenodo/figshare)
+graphs/
+data/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

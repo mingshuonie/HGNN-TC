@@ -1,0 +1,2 @@
+"""Feature-attributed GNN subpackage.
+"""
